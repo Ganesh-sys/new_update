@@ -21,6 +21,5 @@ def wish(name):
 	print("Hello",name,"Good Afternoon")
 
 wish()
-
-
-
+#new update files for change and using decorator
+#Decorator is used to extend the functionality of a program
