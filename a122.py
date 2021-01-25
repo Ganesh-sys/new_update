@@ -8,7 +8,7 @@
 # class square(rectangle):
 # 	def area(self):
 # 		return l*l
-
+#<code change by team lead>
 def decor(func):
 	def inner(name):
 		print("decorator execution")
